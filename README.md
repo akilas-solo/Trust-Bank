@@ -1,6 +1,6 @@
 
 
-![home](Screenshot 2024-11-04 042447.png)
+![home](./Screenshot%202024-11-04%20042447.png)
 
 # TrustBank - Business Website Template
 
