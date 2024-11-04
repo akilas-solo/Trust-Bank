@@ -1,4 +1,4 @@
-# TrustBank - Business Website Template
+# TrustBank - Website Template
 
 ![Home Screenshot](./Screenshot%202024-11-04%20042447.png)
 
